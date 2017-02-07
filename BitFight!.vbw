@@ -1,0 +1,15 @@
+frmMainMenu = 17, 24, 1511, 942, C, 3, 4, 1476, 814, C
+DeclarationModule = 734, -9, 1536, 932, C
+UserMovement = 757, -1, 1521, 931, C
+StartUpModule = 885, 6, 1509, 941, C
+CollisonModule = 11, 7, 1416, 895, C
+frmSetUp = 817, 0, 1502, 917, C, 5, 6, 784, 875, C
+GamePlayModule = -20, 3, 1487, 822, 
+EnemyMovement = 144, 172, 1400, 825, 
+frmSurvivalEasy = 10, 4, 774, 941, C, 16, 6, 1479, 817, C
+frmSurvivalMedium = 5, 3, 821, 918, C, 34, 12, 1508, 824, C
+frmSurvivalHard = 11, 8, 672, 944, C, 8, 4, 1477, 820, C
+frmSurvivalEndless = 174, -3, 943, 938, C, 4, -3, 1480, 822, C
+frmInstructions = 356, 24, 1448, 909, , 13, 42, 1496, 905, C
+frmZomBits = 181, 86, 1476, 919, C, 23, 8, 1502, 857, C
+frmAbout = 224, 224, 1463, 877, C, 56, 57, 1295, 710, C

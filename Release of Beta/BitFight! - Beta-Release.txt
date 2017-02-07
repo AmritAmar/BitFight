@@ -1,0 +1,33 @@
+Hello,
+
+BitFight! is a game I created during the Best Game Programmer in Africa Competition 2013. I created this in 4 hours in VB.
+
+There are a lot of bugs present... but Hopefully, the concept has remained unchanged. 
+
+Recently (April 2014), I won the International African Game Programming Championships again, with the game of the same name. I have, through the months building up to the final voting phase, changed and advanced the game to a point of release.
+
+This is the Beta-Version of the Game, the game called BitFight.
+
+Future Plans? I plan on proting this, hopfully to Mobile (with joysticks) and other consoles. Microsoft recently made this possible with their recent BUILD conference, where they announced the portability of Appilications on all other devices. So hopefully, I am going to take advantage of that.
+
+Well, thanks for Downloading the game! Enjoy!
+
+ - SirHack3r
+
+---  FULL Change Log ---
+
+ - 2 Gamemodes Primarily, Zombits and Survival.
+ - 4 Difficulty stages in Survival (Easy, Medium hard, Endless), only 1 in Zombits.
+ - Added customization menu
+ - Intructions added
+ - Beefed up the Collision System
+ - Added New Enemy (Warp Mines), which randomly teleport.
+ - Added Power Ups
+ - Added Slow Motion
+ - Added EMPs
+ - Added Distortion
+ - Added "ZomBits" (regular Enemies, with linear movement)
+ - New Scoring System (With Point Multipliers
+ - About Me Added
+ - System Log Added
+ - AND LOTS MORE FUN!
